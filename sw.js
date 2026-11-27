@@ -1,9 +1,11 @@
-const CACHE_NAME = 'mikarya-pwa-v1';
+const CACHE_NAME = 'mikarya-pwa-v2';
 const CORE_ASSETS = [
   './',
   './index.html',
   './privasi.html',
   './manifest.webmanifest',
+  './logo-terang.png',
+  './logo-emas.png',
   './icons/icon-192.png',
   './icons/icon-512.png',
   './icons/icon-maskable-512.png',
